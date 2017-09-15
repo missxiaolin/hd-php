@@ -1,0 +1,18 @@
+[ 2016-08-30T10:36:23+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\shop\App\Home\Controller\ShopcartController.php (100).
+[ 2016-08-30T10:36:23+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\App\Home\Controller\ShopcartController.php (100).
+[ 2016-08-30T10:39:41+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\shop\App\Home\Controller\ShopcartController.php (100).
+[ 2016-08-30T10:39:41+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\App\Home\Controller\ShopcartController.php (100).
+[ 2016-08-30T10:39:49+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\shop\App\Home\Controller\ShopcartController.php (100).
+[ 2016-08-30T10:39:49+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\App\Home\Controller\ShopcartController.php (100).
+[ 2016-08-30T10:40:15+08:00 ]NOTICE: Undefined index: cartD:\wamp\www\shop\App\Home\Controller\ShopcartController.php (100).
+[ 2016-08-30T10:40:15+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\App\Home\Controller\ShopcartController.php (100).
+[ 2016-08-30T10:45:01+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\App\Home\Controller\ShopcartController.php (101).
+[ 2016-08-30T10:45:24+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\App\Home\Controller\ShopcartController.php (101).
+[ 2016-08-30T10:50:19+08:00 ]NOTICE: Undefined variable: shopDataD:\wamp\www\shop\Storage\view\compile\ab2b6520acf89631a553fc80a7a745c3.php (174).
+[ 2016-08-30T10:50:19+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\ab2b6520acf89631a553fc80a7a745c3.php (174).
+[ 2016-08-30T10:50:19+08:00 ]NOTICE: Undefined variable: priceD:\wamp\www\shop\Storage\view\compile\ab2b6520acf89631a553fc80a7a745c3.php (211).
+[ 2016-08-30T10:50:19+08:00 ]NOTICE: Undefined variable: priceD:\wamp\www\shop\Storage\view\compile\ab2b6520acf89631a553fc80a7a745c3.php (224).
+[ 2016-08-30T10:50:36+08:00 ]NOTICE: Undefined variable: priceD:\wamp\www\shop\Storage\view\compile\ab2b6520acf89631a553fc80a7a745c3.php (211).
+[ 2016-08-30T10:50:36+08:00 ]NOTICE: Undefined variable: priceD:\wamp\www\shop\Storage\view\compile\ab2b6520acf89631a553fc80a7a745c3.php (224).
+[ 2016-08-30T11:00:35+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\App\Home\Controller\ShopcartController.php (161).
+[ 2016-08-30T11:00:35+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\App\Home\Controller\ShopcartController.php (201).

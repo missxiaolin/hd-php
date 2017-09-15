@@ -1,0 +1,89 @@
+[ 2016-08-15T08:41:41+08:00 ]EXCEPTION: Method Admin\Controller\LinkController::add() does not exist
+[ 2016-08-15T08:42:09+08:00 ]EXCEPTION: Method Admin\Controller\LinkController::index() does not exist
+[ 2016-08-15T08:42:44+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\shop\Storage\view\compile\c26603725d622bd431b3cc749d478b08.php (26).
+[ 2016-08-15T08:42:44+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\c26603725d622bd431b3cc749d478b08.php (26).
+[ 2016-08-15T08:42:44+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\shop\Storage\view\compile\c26603725d622bd431b3cc749d478b08.php (45).
+[ 2016-08-15T08:42:46+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\shop\Storage\view\compile\c26603725d622bd431b3cc749d478b08.php (26).
+[ 2016-08-15T08:42:46+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\c26603725d622bd431b3cc749d478b08.php (26).
+[ 2016-08-15T08:42:46+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\shop\Storage\view\compile\c26603725d622bd431b3cc749d478b08.php (45).
+[ 2016-08-15T08:42:47+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\shop\Storage\view\compile\c26603725d622bd431b3cc749d478b08.php (26).
+[ 2016-08-15T08:42:47+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\c26603725d622bd431b3cc749d478b08.php (26).
+[ 2016-08-15T08:42:47+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\shop\Storage\view\compile\c26603725d622bd431b3cc749d478b08.php (45).
+[ 2016-08-15T08:53:31+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\shop\Storage\view\compile\c26603725d622bd431b3cc749d478b08.php (26).
+[ 2016-08-15T08:53:31+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\c26603725d622bd431b3cc749d478b08.php (26).
+[ 2016-08-15T08:53:31+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\shop\Storage\view\compile\c26603725d622bd431b3cc749d478b08.php (45).
+[ 2016-08-15T08:55:00+08:00 ]NOTICE: Undefined variable: pageD:\wamp\www\shop\Storage\view\compile\c26603725d622bd431b3cc749d478b08.php (45).
+[ 2016-08-15T08:57:25+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\c2e1e2a652bdb6e4ff3acc82b4a164f2.php (19).
+[ 2016-08-15T08:57:25+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\c2e1e2a652bdb6e4ff3acc82b4a164f2.php (26).
+[ 2016-08-15T08:57:25+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\c2e1e2a652bdb6e4ff3acc82b4a164f2.php (27).
+[ 2016-08-15T08:57:25+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\c2e1e2a652bdb6e4ff3acc82b4a164f2.php (31).
+[ 2016-08-15T08:57:25+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\c2e1e2a652bdb6e4ff3acc82b4a164f2.php (36).
+[ 2016-08-15T08:57:25+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\c2e1e2a652bdb6e4ff3acc82b4a164f2.php (38).
+[ 2016-08-15T13:26:09+08:00 ]EXCEPTION: SELECT  *  FROM shop_brand ORDER BY  DESC ASC  ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC ASC' at line 1
+[ 2016-08-15T13:26:22+08:00 ]EXCEPTION: SELECT  *  FROM shop_brand ORDER BY  DESC ASC  ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC ASC' at line 1
+[ 2016-08-15T13:26:45+08:00 ]EXCEPTION: SELECT  *  FROM shop_brand ORDER BY  DESC ASC  ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC ASC' at line 1
+[ 2016-08-15T13:26:46+08:00 ]EXCEPTION: SELECT  *  FROM shop_brand ORDER BY  DESC ASC  ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC ASC' at line 1
+[ 2016-08-15T13:28:33+08:00 ]EXCEPTION: SELECT  *  FROM shop_brand ORDER BY  DESC ASC  ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC ASC' at line 1
+[ 2016-08-15T13:50:05+08:00 ]EXCEPTION: 模板不存在:App/Admin/View/Shoplist/index.php
+[ 2016-08-15T13:50:08+08:00 ]EXCEPTION: 模板不存在:App/Admin/View/Shoplist/index.php
+[ 2016-08-15T13:50:10+08:00 ]EXCEPTION: 模板不存在:App/Admin/View/Shoplist/index.php
+[ 2016-08-15T16:13:01+08:00 ]NOTICE: Undefined index: bidD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (60).
+[ 2016-08-15T16:13:01+08:00 ]NOTICE: Undefined index: bnameD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (60).
+[ 2016-08-15T16:13:01+08:00 ]NOTICE: Undefined index: bidD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (60).
+[ 2016-08-15T16:13:01+08:00 ]NOTICE: Undefined index: bnameD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (60).
+[ 2016-08-15T16:13:01+08:00 ]NOTICE: Undefined index: bidD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (60).
+[ 2016-08-15T16:13:01+08:00 ]NOTICE: Undefined index: bnameD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (60).
+[ 2016-08-15T16:13:30+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (59).
+[ 2016-08-15T16:13:30+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (59).
+[ 2016-08-15T16:24:02+08:00 ]EXCEPTION: Method Admin\Controller\ShoplistController::upload() does not exist
+[ 2016-08-15T18:08:10+08:00 ]EXCEPTION: SELECT  *  FROM shop_category INNER JOIN shop_shop_type ON shop_type_tid = tid ;BindParams:array (
+)42S02;1146;Table 'shop_edu.shop_shop_type' doesn't exist
+[ 2016-08-15T18:09:11+08:00 ]NOTICE: Array to string conversionD:\wamp\www\shop\Hdphp\Db\Mysql.php (270).
+[ 2016-08-15T18:09:48+08:00 ]NOTICE: Array to string conversionD:\wamp\www\shop\Hdphp\Db\Mysql.php (270).
+[ 2016-08-15T18:10:15+08:00 ]NOTICE: Array to string conversionD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (77).
+[ 2016-08-15T18:12:33+08:00 ]EXCEPTION: SELECT  *  FROM shop_category INNER JOIN shop_type ON shop_type_tid = tid  INNER JOIN shop_type_attr ON shop_type_tid = tid WHERE  cid=?  ;BindParams:array (
+  0 => '4',
+)23000;1052;Column 'shop_type_tid' in on clause is ambiguous
+[ 2016-08-15T18:14:32+08:00 ]EXCEPTION: SELECT  *  FROM shop_category INNER JOIN shop_type_attr ON shop_type_tid = tid WHERE  cid=?  ;BindParams:array (
+  0 => '4',
+)23000;1052;Column 'shop_type_tid' in on clause is ambiguous
+[ 2016-08-15T18:22:13+08:00 ]EXCEPTION: SELECT  *  FROM shop_shop_list_attr WHERE  shop_type_attr_taid=?  ;BindParams:array (
+  0 => '1',
+)42S02;1146;Table 'shop_edu.shop_shop_list_attr' doesn't exist
+[ 2016-08-15T18:23:38+08:00 ]EXCEPTION: SELECT  *  FROM shop_shop_type_attr WHERE  shop_type_attr_taid=?  ;BindParams:array (
+  0 => '1',
+)42S02;1146;Table 'shop_edu.shop_shop_type_attr' doesn't exist
+[ 2016-08-15T18:23:55+08:00 ]EXCEPTION: SELECT  *  FROM shop_type_attr WHERE  shop_type_attr_taid=?  ;BindParams:array (
+  0 => '1',
+)42S22;1054;Unknown column 'shop_type_attr_taid' in 'where clause'
+[ 2016-08-15T22:38:06+08:00 ]NOTICE: Undefined index: tidD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (121).
+[ 2016-08-15T22:38:06+08:00 ]NOTICE: Undefined index: tidD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (121).
+[ 2016-08-15T22:38:06+08:00 ]NOTICE: Undefined index: tidD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (121).
+[ 2016-08-15T22:38:06+08:00 ]NOTICE: Undefined index: tidD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (121).
+[ 2016-08-15T22:38:06+08:00 ]NOTICE: Undefined index: tidD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (121).
+[ 2016-08-15T22:38:06+08:00 ]NOTICE: Undefined index: tidD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (121).
+[ 2016-08-15T22:40:46+08:00 ]NOTICE: Undefined index: tidD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (121).
+[ 2016-08-15T22:40:46+08:00 ]NOTICE: Undefined index: tidD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (121).
+[ 2016-08-15T22:40:46+08:00 ]NOTICE: Undefined index: tidD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (121).
+[ 2016-08-15T22:40:46+08:00 ]NOTICE: Undefined index: tidD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (121).
+[ 2016-08-15T22:40:46+08:00 ]NOTICE: Undefined index: tidD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (121).
+[ 2016-08-15T22:40:46+08:00 ]NOTICE: Undefined index: tidD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (121).
+[ 2016-08-15T22:56:42+08:00 ]NOTICE: Undefined index: brandidD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (64).
+[ 2016-08-15T22:56:42+08:00 ]NOTICE: Undefined index: brandnameD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (64).
+[ 2016-08-15T22:56:42+08:00 ]NOTICE: Undefined index: brandidD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (64).
+[ 2016-08-15T22:56:42+08:00 ]NOTICE: Undefined index: brandnameD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (64).
+[ 2016-08-15T22:56:42+08:00 ]NOTICE: Undefined index: brandidD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (64).
+[ 2016-08-15T22:56:42+08:00 ]NOTICE: Undefined index: brandnameD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (64).
+[ 2016-08-15T22:56:42+08:00 ]NOTICE: Undefined index: brandidD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (64).
+[ 2016-08-15T22:56:42+08:00 ]NOTICE: Undefined index: brandnameD:\wamp\www\shop\Storage\view\compile\7924ddbc71c8b81e7543cda99456f8e6.php (64).
+[ 2016-08-15T23:43:56+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (46).
+[ 2016-08-15T23:44:35+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (46).
+[ 2016-08-15T23:55:58+08:00 ]EXCEPTION: Admin\Controller\GoodsController 不存在
+[ 2016-08-15T23:57:24+08:00 ]EXCEPTION: Admin\Controller\GoodsController 不存在
+[ 2016-08-15T23:59:28+08:00 ]NOTICE: unlink(Upload/Content/16/08/86461471276759_small.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (117).
+[ 2016-08-15T23:59:28+08:00 ]NOTICE: unlink(Upload/Content/16/08/86461471276759_mid.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (118).

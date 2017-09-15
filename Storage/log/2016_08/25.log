@@ -1,0 +1,73 @@
+[ 2016-08-25T08:34:08+08:00 ]EXCEPTION: 模板不存在:App/Admin/View/Shopcart/index.php
+[ 2016-08-25T08:34:09+08:00 ]EXCEPTION: 模板不存在:App/Admin/View/Shopcart/index.php
+[ 2016-08-25T08:36:54+08:00 ]NOTICE: Undefined variable: orderDataD:\wamp\www\shop\Storage\view\compile\96d5e0928491a435fa1ec689497207af.php (30).
+[ 2016-08-25T08:36:54+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\96d5e0928491a435fa1ec689497207af.php (30).
+[ 2016-08-25T08:37:48+08:00 ]EXCEPTION: 模板不存在:App/Admin/View/Shopcart/../Common/infoleft.php
+[ 2016-08-25T08:38:03+08:00 ]NOTICE: Undefined variable: orderDataD:\wamp\www\shop\Storage\view\compile\96d5e0928491a435fa1ec689497207af.php (31).
+[ 2016-08-25T08:38:03+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\96d5e0928491a435fa1ec689497207af.php (31).
+[ 2016-08-25T08:38:08+08:00 ]NOTICE: Undefined variable: orderDataD:\wamp\www\shop\Storage\view\compile\96d5e0928491a435fa1ec689497207af.php (31).
+[ 2016-08-25T08:38:08+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\96d5e0928491a435fa1ec689497207af.php (31).
+[ 2016-08-25T09:02:00+08:00 ]NOTICE: Use of undefined constant 已发货 - assumed '已发货'D:\wamp\www\shop\Storage\view\compile\96d5e0928491a435fa1ec689497207af.php (73).
+[ 2016-08-25T09:02:01+08:00 ]NOTICE: Use of undefined constant 已发货 - assumed '已发货'D:\wamp\www\shop\Storage\view\compile\96d5e0928491a435fa1ec689497207af.php (73).
+[ 2016-08-25T14:00:45+08:00 ]EXCEPTION: SELECT  gid  FROM shop_lists WHERE gname like %衬衫% ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%衬衫%' at line 1
+[ 2016-08-25T14:03:19+08:00 ]NOTICE: Undefined property: Home\Controller\SearchController::$attrModelD:\wamp\www\shop\App\Home\Controller\SearchController.php (27).
+[ 2016-08-25T14:19:51+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1068).
+[ 2016-08-25T14:19:51+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:19:51+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:19:51+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:19:51+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:19:51+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:19:51+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:19:51+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:20:51+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1068).
+[ 2016-08-25T14:20:51+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:20:51+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:20:51+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:20:51+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:20:51+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:20:51+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:20:51+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:21:43+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1068).
+[ 2016-08-25T14:21:43+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:21:43+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:21:43+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:21:43+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:21:43+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:21:43+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:21:43+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:21:59+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1068).
+[ 2016-08-25T14:21:59+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:21:59+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:21:59+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:21:59+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:21:59+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:21:59+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:21:59+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1100).
+[ 2016-08-25T14:28:42+08:00 ]NOTICE: Undefined variable: finalAttrD:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1084).
+[ 2016-08-25T14:28:42+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\ea7b9da66ff1c2c928cfb01e33739ce6.php (1084).
+[ 2016-08-25T14:32:14+08:00 ]EXCEPTION: Method Home\Controller\SearchController::shoplist() does not exist
+[ 2016-08-25T15:12:33+08:00 ]NOTICE: Undefined property: Home\Controller\SearchController::$remarkModelD:\wamp\www\shop\App\Home\Controller\SearchController.php (84).
+[ 2016-08-25T15:50:18+08:00 ]NOTICE: Use of undefined constant seach - assumed 'seach'D:\wamp\www\shop\Storage\view\compile\a800a2f8c7ff7b37a39f73d04a591ec9.php (1072).
+[ 2016-08-25T15:50:18+08:00 ]NOTICE: Use of undefined constant seach - assumed 'seach'D:\wamp\www\shop\Storage\view\compile\a800a2f8c7ff7b37a39f73d04a591ec9.php (1072).
+[ 2016-08-25T15:50:18+08:00 ]NOTICE: Use of undefined constant seach - assumed 'seach'D:\wamp\www\shop\Storage\view\compile\a800a2f8c7ff7b37a39f73d04a591ec9.php (1104).
+[ 2016-08-25T15:50:18+08:00 ]NOTICE: Use of undefined constant seach - assumed 'seach'D:\wamp\www\shop\Storage\view\compile\a800a2f8c7ff7b37a39f73d04a591ec9.php (1104).
+[ 2016-08-25T15:50:18+08:00 ]NOTICE: Use of undefined constant seach - assumed 'seach'D:\wamp\www\shop\Storage\view\compile\a800a2f8c7ff7b37a39f73d04a591ec9.php (1104).
+[ 2016-08-25T15:50:18+08:00 ]NOTICE: Use of undefined constant seach - assumed 'seach'D:\wamp\www\shop\Storage\view\compile\a800a2f8c7ff7b37a39f73d04a591ec9.php (1104).
+[ 2016-08-25T15:50:18+08:00 ]NOTICE: Use of undefined constant seach - assumed 'seach'D:\wamp\www\shop\Storage\view\compile\a800a2f8c7ff7b37a39f73d04a591ec9.php (1104).
+[ 2016-08-25T15:50:18+08:00 ]NOTICE: Use of undefined constant seach - assumed 'seach'D:\wamp\www\shop\Storage\view\compile\a800a2f8c7ff7b37a39f73d04a591ec9.php (1104).
+[ 2016-08-25T15:50:18+08:00 ]NOTICE: Use of undefined constant seach - assumed 'seach'D:\wamp\www\shop\Storage\view\compile\a800a2f8c7ff7b37a39f73d04a591ec9.php (1104).
+[ 2016-08-25T15:50:18+08:00 ]NOTICE: Use of undefined constant seach - assumed 'seach'D:\wamp\www\shop\Storage\view\compile\a800a2f8c7ff7b37a39f73d04a591ec9.php (1104).
+[ 2016-08-25T15:50:18+08:00 ]NOTICE: Use of undefined constant seach - assumed 'seach'D:\wamp\www\shop\Storage\view\compile\a800a2f8c7ff7b37a39f73d04a591ec9.php (1104).
+[ 2016-08-25T15:50:18+08:00 ]NOTICE: Use of undefined constant seach - assumed 'seach'D:\wamp\www\shop\Storage\view\compile\a800a2f8c7ff7b37a39f73d04a591ec9.php (1104).
+[ 2016-08-25T15:50:18+08:00 ]NOTICE: Use of undefined constant seach - assumed 'seach'D:\wamp\www\shop\Storage\view\compile\a800a2f8c7ff7b37a39f73d04a591ec9.php (1104).
+[ 2016-08-25T15:50:18+08:00 ]NOTICE: Use of undefined constant seach - assumed 'seach'D:\wamp\www\shop\Storage\view\compile\a800a2f8c7ff7b37a39f73d04a591ec9.php (1104).
+[ 2016-08-25T16:30:11+08:00 ]EXCEPTION: Method Home\Controller\LoginController::$href() does not exist
+[ 2016-08-25T16:30:28+08:00 ]EXCEPTION: Method Home\Controller\LoginController::$href() does not exist
+[ 2016-08-25T16:30:29+08:00 ]EXCEPTION: Method Home\Controller\LoginController::$href() does not exist
+[ 2016-08-25T20:14:59+08:00 ]NOTICE: Undefined index: HTTP_REFERERD:\wamp\www\shop\App\Home\Controller\LoginController.php (38).
+[ 2016-08-25T20:47:35+08:00 ]NOTICE: Illegal string offset 'text'D:\wamp\www\shop\App\Home\Controller\IndexController.php (70).
+[ 2016-08-25T20:48:36+08:00 ]NOTICE: Object of class stdClass could not be converted to stringD:\wamp\www\shop\App\Home\Controller\IndexController.php (70).
+[ 2016-08-25T20:49:10+08:00 ]NOTICE: Object of class stdClass could not be converted to stringD:\wamp\www\shop\App\Home\Controller\IndexController.php (70).
+[ 2016-08-25T20:49:18+08:00 ]NOTICE: Object of class stdClass could not be converted to stringD:\wamp\www\shop\App\Home\Controller\IndexController.php (70).
+[ 2016-08-25T20:54:43+08:00 ]NOTICE: Object of class stdClass could not be converted to stringD:\wamp\www\shop\App\Home\Controller\IndexController.php (70).

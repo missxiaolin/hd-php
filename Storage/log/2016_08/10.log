@@ -1,0 +1,10 @@
+[ 2016-08-10T17:03:03+08:00 ]EXCEPTION: Admin\Controller\IndexController 不存在
+[ 2016-08-10T19:46:52+08:00 ]NOTICE: Division by zeroD:\wamp\www\shop\Hdphp\Code\Code.php (154).
+[ 2016-08-10T19:46:52+08:00 ]NOTICE: Undefined variable: fontColorD:\wamp\www\shop\Hdphp\Code\Code.php (161).
+[ 2016-08-10T19:55:32+08:00 ]EXCEPTION: 模板不存在:App/Admin/View/Index/welcome.php
+[ 2016-08-10T19:55:34+08:00 ]EXCEPTION: 模板不存在:App/Admin/View/Index/welcome.php
+[ 2016-08-10T19:58:30+08:00 ]EXCEPTION: Method Admin\Controller\LoginController::outl() does not exist
+[ 2016-08-10T19:58:45+08:00 ]NOTICE: A session had already been started - ignoring session_start()D:\wamp\www\shop\App\Admin\Controller\LoginController.php (52).
+[ 2016-08-10T20:04:37+08:00 ]NOTICE: Undefined offset: 0D:\wamp\www\shop\Storage\view\compile\e25935d41d119f684e703fb7d47c9548.php (54).
+[ 2016-08-10T20:18:02+08:00 ]NOTICE: A session had already been started - ignoring session_start()D:\wamp\www\shop\App\Admin\Controller\LoginController.php (52).
+[ 2016-08-10T20:22:41+08:00 ]NOTICE: A session had already been started - ignoring session_start()D:\wamp\www\shop\App\Admin\Controller\LoginController.php (52).

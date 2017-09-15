@@ -1,0 +1,160 @@
+[ 2016-08-19T09:25:31+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\shop\App\Home\Controller\IndexController.php (26).
+[ 2016-08-19T09:29:12+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\shop\App\Home\Controller\IndexController.php (28).
+[ 2016-08-19T09:37:43+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:37:43+08:00 ]EXCEPTION: SELECT  *  FROM shop_category WHERE pid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-19T09:38:16+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:38:57+08:00 ]NOTICE: Undefined index: oneD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:38:58+08:00 ]NOTICE: Undefined index: oneD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:38:59+08:00 ]NOTICE: Undefined index: oneD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:39:07+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:39:07+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:39:08+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:42:21+08:00 ]NOTICE: Undefined index: threeD:\wamp\www\shop\App\Home\Controller\IndexController.php (25).
+[ 2016-08-19T09:51:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:23+08:00 ]NOTICE: Undefined index: D:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:23+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:23+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:23+08:00 ]EXCEPTION: SELECT  *  FROM shop_category WHERE pid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-19T09:51:44+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:44+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:44+08:00 ]NOTICE: Undefined index: D:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:44+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:44+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:44+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:44+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:44+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:44+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:44+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:44+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:44+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:44+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:44+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:44+08:00 ]EXCEPTION: SELECT  *  FROM shop_category WHERE pid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-19T09:51:50+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:50+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:50+08:00 ]NOTICE: Undefined index: D:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:50+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:50+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:50+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:50+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:50+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:50+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:50+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:50+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:50+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:50+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:50+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:50+08:00 ]EXCEPTION: SELECT  *  FROM shop_category WHERE pid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-19T09:51:51+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:51+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:51+08:00 ]NOTICE: Undefined index: D:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:51+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:51+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:51+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:51+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:51+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:51+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:51+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:51+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:51+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:51+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:51:51+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:51:51+08:00 ]EXCEPTION: SELECT  *  FROM shop_category WHERE pid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-19T09:55:46+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:55:46+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:55:46+08:00 ]NOTICE: Undefined index: D:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:55:46+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:55:46+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:55:46+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:55:46+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:55:46+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:55:46+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:55:46+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:55:46+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:55:46+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:55:46+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (21).
+[ 2016-08-19T09:55:47+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:55:47+08:00 ]EXCEPTION: SELECT  *  FROM shop_category WHERE pid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-19T09:56:02+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:56:02+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:56:02+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:56:02+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:56:02+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:56:02+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:56:02+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:56:02+08:00 ]EXCEPTION: SELECT  *  FROM shop_category WHERE pid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-19T09:56:33+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:56:33+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:56:33+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:56:33+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:56:33+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:56:33+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:56:33+08:00 ]NOTICE: Undefined index: cidD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:56:33+08:00 ]EXCEPTION: SELECT  *  FROM shop_category WHERE pid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-19T09:57:33+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:57:33+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:57:33+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:57:33+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:57:33+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:57:33+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T09:57:33+08:00 ]NOTICE: Undefined variable: kD:\wamp\www\shop\App\Home\Controller\IndexController.php (19).
+[ 2016-08-19T10:40:47+08:00 ]NOTICE: Undefined index: valueD:\wamp\www\shop\Hdphp\View\HdphpTag.php (134).
+[ 2016-08-19T10:40:48+08:00 ]NOTICE: Undefined index: valueD:\wamp\www\shop\Hdphp\View\HdphpTag.php (134).
+[ 2016-08-19T10:48:07+08:00 ]NOTICE: Undefined index: fromD:\wamp\www\shop\Hdphp\View\HdphpTag.php (134).
+[ 2016-08-19T10:48:07+08:00 ]NOTICE: Undefined index: valueD:\wamp\www\shop\Hdphp\View\HdphpTag.php (134).
+[ 2016-08-19T11:24:30+08:00 ]NOTICE: Illegal string offset 'cname'D:\wamp\www\shop\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (126).
+[ 2016-08-19T11:24:30+08:00 ]NOTICE: Illegal string offset 'cname'D:\wamp\www\shop\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (126).
+[ 2016-08-19T11:24:30+08:00 ]NOTICE: Illegal string offset 'cname'D:\wamp\www\shop\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (126).
+[ 2016-08-19T11:24:30+08:00 ]NOTICE: Illegal string offset 'cname'D:\wamp\www\shop\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (126).
+[ 2016-08-19T11:24:30+08:00 ]NOTICE: Illegal string offset 'cname'D:\wamp\www\shop\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (126).
+[ 2016-08-19T11:24:30+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (126).
+[ 2016-08-19T11:24:30+08:00 ]NOTICE: Illegal string offset 'cname'D:\wamp\www\shop\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (126).
+[ 2016-08-19T11:24:30+08:00 ]NOTICE: Illegal string offset 'cname'D:\wamp\www\shop\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (126).
+[ 2016-08-19T11:24:30+08:00 ]NOTICE: Illegal string offset 'cname'D:\wamp\www\shop\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (126).
+[ 2016-08-19T11:24:30+08:00 ]NOTICE: Illegal string offset 'cname'D:\wamp\www\shop\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (126).
+[ 2016-08-19T11:24:30+08:00 ]NOTICE: Illegal string offset 'cname'D:\wamp\www\shop\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (126).
+[ 2016-08-19T11:24:30+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (126).
+[ 2016-08-19T11:24:30+08:00 ]NOTICE: Illegal string offset 'cname'D:\wamp\www\shop\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (126).
+[ 2016-08-19T11:24:30+08:00 ]NOTICE: Illegal string offset 'cname'D:\wamp\www\shop\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (126).
+[ 2016-08-19T11:24:30+08:00 ]NOTICE: Illegal string offset 'cname'D:\wamp\www\shop\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (126).
+[ 2016-08-19T11:24:30+08:00 ]NOTICE: Illegal string offset 'cname'D:\wamp\www\shop\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (126).
+[ 2016-08-19T11:24:30+08:00 ]NOTICE: Illegal string offset 'cname'D:\wamp\www\shop\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (126).
+[ 2016-08-19T11:24:30+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (126).
+[ 2016-08-19T13:57:59+08:00 ]EXCEPTION: SELECT  *  FROM shop_arc WHERE is_recycle=0 and limit 4 ORDER BY  sendtime desc  ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 4 ORDER BY  sendtime desc' at line 1
+[ 2016-08-19T14:08:18+08:00 ]NOTICE: Use of undefined constant des - assumed 'des'D:\wamp\www\shop\Storage\view\compile\778c92b50991a119f6222a8fd0f6ce75.php (734).
+[ 2016-08-19T14:08:20+08:00 ]NOTICE: Use of undefined constant des - assumed 'des'D:\wamp\www\shop\Storage\view\compile\778c92b50991a119f6222a8fd0f6ce75.php (734).
+[ 2016-08-19T14:11:27+08:00 ]EXCEPTION: 模板不存在:App/Home/View/Arc/../Common/footer.php
+[ 2016-08-19T14:24:18+08:00 ]NOTICE: Undefined index: widD:\wamp\www\shop\Storage\view\compile\778c92b50991a119f6222a8fd0f6ce75.php (723).
+[ 2016-08-19T14:24:18+08:00 ]NOTICE: Undefined index: titleD:\wamp\www\shop\Storage\view\compile\778c92b50991a119f6222a8fd0f6ce75.php (723).
+[ 2016-08-19T14:24:18+08:00 ]NOTICE: Undefined variable: vD:\wamp\www\shop\Storage\view\compile\778c92b50991a119f6222a8fd0f6ce75.php (723).
+[ 2016-08-19T14:24:49+08:00 ]NOTICE: Undefined index: widD:\wamp\www\shop\Storage\view\compile\778c92b50991a119f6222a8fd0f6ce75.php (723).
+[ 2016-08-19T14:24:49+08:00 ]NOTICE: Undefined index: titleD:\wamp\www\shop\Storage\view\compile\778c92b50991a119f6222a8fd0f6ce75.php (723).
+[ 2016-08-19T14:24:49+08:00 ]NOTICE: Undefined variable: vD:\wamp\www\shop\Storage\view\compile\778c92b50991a119f6222a8fd0f6ce75.php (723).
+[ 2016-08-19T14:25:28+08:00 ]EXCEPTION: SELECT  *  FROM shop_arc_data INNER JOIN shop_arc_data ON shop_arc_wid = wid WHERE shop_arc_wid=14 LIMIT 1 ;BindParams:array (
+)42000;1066;Not unique table/alias: 'shop_arc_data'
+[ 2016-08-19T14:25:45+08:00 ]NOTICE: Undefined variable: vD:\wamp\www\shop\Storage\view\compile\778c92b50991a119f6222a8fd0f6ce75.php (723).
+[ 2016-08-19T14:27:50+08:00 ]NOTICE: Undefined variable: vD:\wamp\www\shop\Storage\view\compile\778c92b50991a119f6222a8fd0f6ce75.php (723).
+[ 2016-08-19T14:35:50+08:00 ]NOTICE: Undefined variable: widD:\wamp\www\shop\App\Home\Controller\ArcController.php (17).
+[ 2016-08-19T14:35:50+08:00 ]EXCEPTION: UPDATE shop_arc SET click=click+1 WHERE wid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-19T16:41:35+08:00 ]NOTICE: Use of undefined constant index - assumed 'index'D:\wamp\www\shop\Storage\view\compile\b5caf0d83044663db03d62ba065e4c7f.php (13).
+[ 2016-08-19T23:45:22+08:00 ]NOTICE: Undefined index: uidD:\wamp\www\shop\App\Home\Controller\InfoController.php (12).

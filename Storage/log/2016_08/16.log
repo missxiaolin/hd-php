@@ -1,0 +1,100 @@
+[ 2016-08-16T09:30:50+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\shop\App\Common\Model\Shoplist.php (44).
+[ 2016-08-16T09:49:08+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\shop\App\Common\Model\Shoplist.php (44).
+[ 2016-08-16T09:51:16+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\shop\App\Common\Model\Shoplist.php (44).
+[ 2016-08-16T09:51:16+08:00 ]NOTICE: Undefined variable: imgD:\wamp\www\shop\App\Common\Model\Shoplist.php (48).
+[ 2016-08-16T09:53:43+08:00 ]NOTICE: Undefined variable: detailModelD:\wamp\www\shop\App\Common\Model\Shopdetail.php (20).
+[ 2016-08-16T09:53:43+08:00 ]NOTICE: Trying to get property of non-objectD:\wamp\www\shop\App\Common\Model\Shopdetail.php (20).
+[ 2016-08-16T09:53:43+08:00 ]NOTICE: implode(): Invalid arguments passedD:\wamp\www\shop\App\Common\Model\Shopdetail.php (20).
+[ 2016-08-16T09:53:43+08:00 ]NOTICE: Array to string conversionD:\wamp\www\shop\Hdphp\Db\Mysql.php (204).
+[ 2016-08-16T09:54:58+08:00 ]NOTICE: Undefined variable: detailModelD:\wamp\www\shop\App\Common\Model\Shopdetail.php (20).
+[ 2016-08-16T09:54:58+08:00 ]NOTICE: Trying to get property of non-objectD:\wamp\www\shop\App\Common\Model\Shopdetail.php (20).
+[ 2016-08-16T09:54:58+08:00 ]NOTICE: implode(): Invalid arguments passedD:\wamp\www\shop\App\Common\Model\Shopdetail.php (20).
+[ 2016-08-16T09:54:58+08:00 ]EXCEPTION: INSERT INTO shop_detail (`small`,`intro`,`shop_lists_gid`)VALUES(?,?,?) ;BindParams:array (
+  0 => NULL,
+  1 => '<p>顶顶顶顶顶顶顶顶顶<br/></p>',
+  2 => '10',
+)23000;1048;Column 'small' cannot be null
+[ 2016-08-16T11:31:00+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\shop\App\Common\Model\Shoplist.php (45).
+[ 2016-08-16T11:51:35+08:00 ]EXCEPTION: SELECT  *  FROM shop_shop_attribute WHERE aid=1 LIMIT 1 ;BindParams:array (
+)42S02;1146;Table 'shop_edu.shop_shop_attribute' doesn't exist
+[ 2016-08-16T12:13:47+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\shop\App\Common\Model\Shoplistattr.php (30).
+[ 2016-08-16T12:13:47+08:00 ]EXCEPTION: INSERT INTO shop_list_attr (`shop_attribute_aid`,`addprice`,`gavalue`,`shop_goods_gid`)VALUES(?,?,?,?) ;BindParams:array (
+  0 => 1,
+  1 => 0,
+  2 => '长袖',
+  3 => NULL,
+)42S22;1054;Unknown column 'shop_attribute_aid' in 'field list'
+[ 2016-08-16T12:14:50+08:00 ]EXCEPTION: INSERT INTO shop_list_attr (`shop_attribute_aid`,`addprice`,`gavalue`,`shop_lists_gid`)VALUES(?,?,?,?) ;BindParams:array (
+  0 => 1,
+  1 => 0,
+  2 => '长袖',
+  3 => '14',
+)42S22;1054;Unknown column 'shop_attribute_aid' in 'field list'
+[ 2016-08-16T12:15:52+08:00 ]EXCEPTION: INSERT INTO shop_list_attr (`shop_type_attr_taid`,`addprice`,`gavalue`,`shop_lists_gid`)VALUES(?,?,?,?) ;BindParams:array (
+  0 => 1,
+  1 => 0,
+  2 => '长袖',
+  3 => '15',
+)42S22;1054;Unknown column 'addprice' in 'field list'
+[ 2016-08-16T12:18:07+08:00 ]EXCEPTION: INSERT INTO shop_list_attr (`shop_type_attr_taid`,`addprice`,`gavalue`,`shop_lists_gid`)VALUES(?,?,?,?) ;BindParams:array (
+  0 => 1,
+  1 => 'a',
+  2 => '长袖',
+  3 => '16',
+)42S22;1054;Unknown column 'addprice' in 'field list'
+[ 2016-08-16T12:21:27+08:00 ]EXCEPTION: INSERT INTO shop_list_attr (`shop_type_attr_taid`,`added`,`gavalue`,`shop_lists_gid`)VALUES(?,?,?,?) ;BindParams:array (
+  0 => 1,
+  1 => 0,
+  2 => '五分袖/中袖',
+  3 => '17',
+)42S22;1054;Unknown column 'gavalue' in 'field list'
+[ 2016-08-16T14:15:12+08:00 ]NOTICE: Use of undefined constant eitt - assumed 'eitt'D:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (116).
+[ 2016-08-16T14:43:51+08:00 ]NOTICE: unlink(Upload/Content/16/08/8241471328195_mib.png): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (129).
+[ 2016-08-16T14:43:51+08:00 ]NOTICE: unlink(Upload/Content/16/08/64661471328195_mib.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (129).
+[ 2016-08-16T14:43:51+08:00 ]NOTICE: unlink(Upload/Content/16/08/64601471328195_mib.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (129).
+[ 2016-08-16T14:44:30+08:00 ]NOTICE: unlink(Upload/Content/16/08/76491471328189.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (117).
+[ 2016-08-16T14:44:30+08:00 ]NOTICE: unlink(Upload/Content/16/08/76491471328189_list.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (118).
+[ 2016-08-16T14:44:30+08:00 ]NOTICE: unlink(Upload/Content/16/08/8241471328195_small.png): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (127).
+[ 2016-08-16T14:44:30+08:00 ]NOTICE: unlink(Upload/Content/16/08/8241471328195_mid.png): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (128).
+[ 2016-08-16T14:44:30+08:00 ]NOTICE: unlink(Upload/Content/16/08/8241471328195_mib.png): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (129).
+[ 2016-08-16T14:44:30+08:00 ]NOTICE: unlink(Upload/Content/16/08/8241471328195.png): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (130).
+[ 2016-08-16T14:44:30+08:00 ]NOTICE: unlink(Upload/Content/16/08/64661471328195_small.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (127).
+[ 2016-08-16T14:44:30+08:00 ]NOTICE: unlink(Upload/Content/16/08/64661471328195_mid.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (128).
+[ 2016-08-16T14:44:30+08:00 ]NOTICE: unlink(Upload/Content/16/08/64661471328195_mib.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (129).
+[ 2016-08-16T14:44:30+08:00 ]NOTICE: unlink(Upload/Content/16/08/64661471328195.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (130).
+[ 2016-08-16T14:44:30+08:00 ]NOTICE: unlink(Upload/Content/16/08/64601471328195_small.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (127).
+[ 2016-08-16T14:44:30+08:00 ]NOTICE: unlink(Upload/Content/16/08/64601471328195_mid.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (128).
+[ 2016-08-16T14:44:30+08:00 ]NOTICE: unlink(Upload/Content/16/08/64601471328195_mib.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (129).
+[ 2016-08-16T14:44:30+08:00 ]NOTICE: unlink(Upload/Content/16/08/64601471328195.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (130).
+[ 2016-08-16T17:44:31+08:00 ]NOTICE: unlink(Upload/Content/16/08/43181471339943.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (117).
+[ 2016-08-16T17:44:31+08:00 ]NOTICE: unlink(Upload/Content/16/08/43181471339943_list.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (118).
+[ 2016-08-16T17:44:31+08:00 ]NOTICE: unlink(Upload/Content/16/08/21241471339946_small.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (127).
+[ 2016-08-16T17:44:31+08:00 ]NOTICE: unlink(Upload/Content/16/08/21241471339946_mid.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (128).
+[ 2016-08-16T17:44:31+08:00 ]NOTICE: unlink(Upload/Content/16/08/21241471339946_mib.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (129).
+[ 2016-08-16T17:44:31+08:00 ]NOTICE: unlink(Upload/Content/16/08/21241471339946.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (130).
+[ 2016-08-16T19:33:30+08:00 ]NOTICE: Undefined variable: listModelD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (172).
+[ 2016-08-16T19:34:13+08:00 ]NOTICE: Undefined variable: listModelD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (172).
+[ 2016-08-16T19:34:14+08:00 ]NOTICE: Undefined variable: listModelD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (172).
+[ 2016-08-16T19:34:14+08:00 ]NOTICE: Undefined variable: listModelD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (172).
+[ 2016-08-16T19:34:47+08:00 ]NOTICE: Undefined variable: listModelD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (172).
+[ 2016-08-16T19:35:01+08:00 ]NOTICE: Array to string conversionD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (173).
+[ 2016-08-16T19:46:07+08:00 ]NOTICE: Array to string conversionD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (177).
+[ 2016-08-16T19:46:07+08:00 ]NOTICE: Array to string conversionD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (177).
+[ 2016-08-16T19:46:28+08:00 ]NOTICE: Array to string conversionD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (177).
+[ 2016-08-16T19:46:28+08:00 ]NOTICE: Array to string conversionD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (177).
+[ 2016-08-16T20:42:27+08:00 ]NOTICE: unlink(Upload/Content/16/08/31561471339782.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (113).
+[ 2016-08-16T20:42:27+08:00 ]NOTICE: unlink(Upload/Content/16/08/31561471339782_list.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (114).
+[ 2016-08-16T20:42:27+08:00 ]NOTICE: unlink(Upload/Content/16/08/38831471339785_small.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (123).
+[ 2016-08-16T20:42:27+08:00 ]NOTICE: unlink(Upload/Content/16/08/38831471339785_mid.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (124).
+[ 2016-08-16T20:42:27+08:00 ]NOTICE: unlink(Upload/Content/16/08/38831471339785_mib.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (125).
+[ 2016-08-16T20:42:27+08:00 ]NOTICE: unlink(Upload/Content/16/08/38831471339785.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (126).
+[ 2016-08-16T20:42:36+08:00 ]NOTICE: unlink(Upload/Content/16/08/20941471339456.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (113).
+[ 2016-08-16T20:42:36+08:00 ]NOTICE: unlink(Upload/Content/16/08/20941471339456_list.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (114).
+[ 2016-08-16T20:42:36+08:00 ]NOTICE: unlink(Upload/Content/16/08/75291471339460_small.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (123).
+[ 2016-08-16T20:42:36+08:00 ]NOTICE: unlink(Upload/Content/16/08/75291471339460_mid.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (124).
+[ 2016-08-16T20:42:36+08:00 ]NOTICE: unlink(Upload/Content/16/08/75291471339460_mib.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (125).
+[ 2016-08-16T20:42:36+08:00 ]NOTICE: unlink(Upload/Content/16/08/75291471339460.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (126).
+[ 2016-08-16T23:40:43+08:00 ]EXCEPTION: 模板不存在:App/Home/View/Login/index.php
+[ 2016-08-16T23:40:53+08:00 ]EXCEPTION: 模板不存在:App/Home/View/Login/index.php
+[ 2016-08-16T23:40:55+08:00 ]EXCEPTION: 模板不存在:App/Home/View/Login/index.php
+[ 2016-08-16T23:40:58+08:00 ]EXCEPTION: 模板不存在:App/Home/View/Login/index.php

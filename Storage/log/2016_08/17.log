@@ -1,0 +1,217 @@
+[ 2016-08-17T08:40:30+08:00 ]NOTICE: Undefined variable: attrDataD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (193).
+[ 2016-08-17T08:40:30+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (20).
+[ 2016-08-17T08:40:30+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (32).
+[ 2016-08-17T09:13:45+08:00 ]EXCEPTION: SELECT  *  FROM shop_lis INNER JOIN shop_type_attr ON taid = shop_type_attr_taid WHERE  shop_type_attr_taid=?  ;BindParams:array (
+  0 => '5',
+)42S22;1054;Unknown column 'shop_type_attr_taid' in 'where clause'
+[ 2016-08-17T09:14:03+08:00 ]EXCEPTION: SELECT  *  FROM shop_lis INNER JOIN shop_type_attr ON taid = shop_type_attr_taid ;BindParams:array (
+)42S22;1054;Unknown column 'shop_type_attr_taid' in 'on clause'
+[ 2016-08-17T09:18:59+08:00 ]EXCEPTION: SELECT  *  FROM shop_lis INNER JOIN shop_shop_type_attr ON taid = shop_type_attr_taid ;BindParams:array (
+)42S02;1146;Table 'shop_edu.shop_shop_type_attr' doesn't exist
+[ 2016-08-17T09:19:16+08:00 ]EXCEPTION: SELECT  *  FROM shop_lis INNER JOIN shop_type_attr ON taid = shop_type_attr_taid ;BindParams:array (
+)42S22;1054;Unknown column 'shop_type_attr_taid' in 'on clause'
+[ 2016-08-17T09:25:18+08:00 ]NOTICE: Undefined variable: attrDataD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (201).
+[ 2016-08-17T09:25:18+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (36).
+[ 2016-08-17T09:25:18+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (36).
+[ 2016-08-17T09:26:25+08:00 ]NOTICE: Undefined variable: attrDataD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (201).
+[ 2016-08-17T09:42:41+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (181).
+[ 2016-08-17T09:42:41+08:00 ]EXCEPTION: SELECT  *  FROM shop_lis WHERE shop_lists_gid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-17T10:19:13+08:00 ]EXCEPTION: SELECT  *  FROM shop_type_attr WHERE gtid=54 LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'gtid' in 'where clause'
+[ 2016-08-17T10:38:56+08:00 ]NOTICE: Undefined index: glidD:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (32).
+[ 2016-08-17T10:39:03+08:00 ]NOTICE: Undefined index: glidD:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (32).
+[ 2016-08-17T10:45:38+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr WHERE glid=54 LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'glid' in 'where clause'
+[ 2016-08-17T10:46:21+08:00 ]NOTICE: Undefined index: glidD:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (32).
+[ 2016-08-17T10:47:40+08:00 ]NOTICE: Undefined index: combineD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (205).
+[ 2016-08-17T10:47:40+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (205).
+[ 2016-08-17T10:47:40+08:00 ]NOTICE: Undefined index: combineD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (205).
+[ 2016-08-17T10:47:40+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (205).
+[ 2016-08-17T10:47:52+08:00 ]NOTICE: Undefined index: glidD:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (32).
+[ 2016-08-17T10:48:11+08:00 ]NOTICE: Undefined index: combineD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (205).
+[ 2016-08-17T10:48:11+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (205).
+[ 2016-08-17T10:48:11+08:00 ]NOTICE: Undefined index: combineD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (205).
+[ 2016-08-17T10:48:11+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (205).
+[ 2016-08-17T10:54:47+08:00 ]NOTICE: Array to string conversionD:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (34).
+[ 2016-08-17T10:54:47+08:00 ]NOTICE: Array to string conversionD:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (34).
+[ 2016-08-17T10:54:47+08:00 ]NOTICE: Array to string conversionD:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (34).
+[ 2016-08-17T10:54:47+08:00 ]NOTICE: Array to string conversionD:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (34).
+[ 2016-08-17T11:16:34+08:00 ]NOTICE: Undefined variable: lisModelD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (224).
+[ 2016-08-17T11:17:15+08:00 ]EXCEPTION: SELECT  *  FROM shop_lis WHERE combine=55,56 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '56' at line 1
+[ 2016-08-17T11:19:08+08:00 ]EXCEPTION: SELECT  *  FROM shop_lis WHERE combine=55,56 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '56' at line 1
+[ 2016-08-17T11:55:53+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (240).
+[ 2016-08-17T11:55:53+08:00 ]EXCEPTION: DELETE FROM shop_lis WHERE shop_lists_gid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-17T11:56:46+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (240).
+[ 2016-08-17T11:56:46+08:00 ]EXCEPTION: DELETE FROM shop_lis WHERE glid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-17T11:57:02+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (242).
+[ 2016-08-17T11:57:02+08:00 ]EXCEPTION: SELECT  sum(inventory) AS s  FROM shop_lis WHERE shop_lists_gid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-17T13:11:17+08:00 ]EXCEPTION: Method Admin\Controller\ShoplistController::huoedit() does not exist
+[ 2016-08-17T13:11:42+08:00 ]EXCEPTION: 模板不存在:App/Admin/View/Shoplist/huoedit.php
+[ 2016-08-17T13:12:02+08:00 ]NOTICE: Undefined variable: typeatrDataD:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (20).
+[ 2016-08-17T13:12:02+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (20).
+[ 2016-08-17T13:12:02+08:00 ]NOTICE: Undefined variable: typeatrDataD:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (32).
+[ 2016-08-17T13:12:02+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (32).
+[ 2016-08-17T13:13:52+08:00 ]NOTICE: Undefined variable: typeatrDataD:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (20).
+[ 2016-08-17T13:13:52+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (20).
+[ 2016-08-17T13:13:52+08:00 ]NOTICE: Undefined variable: vD:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (35).
+[ 2016-08-17T13:13:52+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (35).
+[ 2016-08-17T13:14:01+08:00 ]NOTICE: Undefined variable: vD:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (32).
+[ 2016-08-17T13:14:01+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (32).
+[ 2016-08-17T13:17:58+08:00 ]NOTICE: Undefined variable: typeatrDataD:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (20).
+[ 2016-08-17T13:17:58+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (20).
+[ 2016-08-17T13:17:58+08:00 ]NOTICE: Undefined variable: vD:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (35).
+[ 2016-08-17T13:17:58+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (35).
+[ 2016-08-17T13:19:21+08:00 ]NOTICE: Undefined variable: typeatrDataD:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (20).
+[ 2016-08-17T13:19:21+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (20).
+[ 2016-08-17T13:19:21+08:00 ]NOTICE: Undefined variable: vD:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (35).
+[ 2016-08-17T13:19:21+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (35).
+[ 2016-08-17T13:19:22+08:00 ]NOTICE: Undefined variable: typeatrDataD:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (20).
+[ 2016-08-17T13:19:22+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (20).
+[ 2016-08-17T13:19:22+08:00 ]NOTICE: Undefined variable: vD:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (35).
+[ 2016-08-17T13:19:22+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (35).
+[ 2016-08-17T13:19:35+08:00 ]NOTICE: Undefined variable: lisDataD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (276).
+[ 2016-08-17T13:19:35+08:00 ]NOTICE: Undefined variable: typeatrDataD:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (20).
+[ 2016-08-17T13:19:35+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (20).
+[ 2016-08-17T13:19:35+08:00 ]NOTICE: Undefined variable: vD:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (35).
+[ 2016-08-17T13:19:35+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (35).
+[ 2016-08-17T13:28:36+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\a7c56bc7936466524ba443f59381fb79.php (31).
+[ 2016-08-17T14:40:05+08:00 ]NOTICE: Array to string conversionD:\wamp\www\shop\Hdphp\Db\Mysql.php (204).
+[ 2016-08-17T14:40:07+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr WHERE gtid=Array LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'Array' in 'where clause'
+[ 2016-08-17T14:40:31+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr WHERE gtid=Array LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'Array' in 'where clause'
+[ 2016-08-17T14:41:04+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr WHERE gtid=Array LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'Array' in 'where clause'
+[ 2016-08-17T14:41:16+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr WHERE gtid=Array LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'Array' in 'where clause'
+[ 2016-08-17T14:41:30+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr WHERE gtid=Array LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'Array' in 'where clause'
+[ 2016-08-17T14:41:33+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr WHERE gtid=Array LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'Array' in 'where clause'
+[ 2016-08-17T14:42:02+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr WHERE gtid=Array LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'Array' in 'where clause'
+[ 2016-08-17T14:42:13+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr WHERE gtid=Array LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'Array' in 'where clause'
+[ 2016-08-17T14:42:30+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr WHERE gtid=Array LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'Array' in 'where clause'
+[ 2016-08-17T14:43:01+08:00 ]NOTICE: Undefined variable: lisDataD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (219).
+[ 2016-08-17T14:43:01+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (30).
+[ 2016-08-17T14:43:05+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr WHERE gtid=Array LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'Array' in 'where clause'
+[ 2016-08-17T14:43:14+08:00 ]NOTICE: Undefined index: typeD:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (33).
+[ 2016-08-17T14:43:14+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (33).
+[ 2016-08-17T14:43:14+08:00 ]NOTICE: Undefined index: typeD:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (33).
+[ 2016-08-17T14:43:14+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (33).
+[ 2016-08-17T14:43:30+08:00 ]NOTICE: Undefined index: typeD:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (33).
+[ 2016-08-17T14:43:30+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (33).
+[ 2016-08-17T14:43:30+08:00 ]NOTICE: Undefined index: typeD:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (33).
+[ 2016-08-17T14:43:30+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (33).
+[ 2016-08-17T14:44:09+08:00 ]NOTICE: Undefined index: typeD:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (33).
+[ 2016-08-17T14:44:09+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (33).
+[ 2016-08-17T14:44:09+08:00 ]NOTICE: Undefined index: typeD:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (33).
+[ 2016-08-17T14:44:09+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (33).
+[ 2016-08-17T14:44:55+08:00 ]NOTICE: Undefined index: typeD:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (33).
+[ 2016-08-17T14:44:55+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (33).
+[ 2016-08-17T14:44:55+08:00 ]NOTICE: Undefined index: typeD:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (33).
+[ 2016-08-17T14:44:55+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (33).
+[ 2016-08-17T14:45:35+08:00 ]NOTICE: Undefined index: typeD:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (33).
+[ 2016-08-17T14:45:35+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (33).
+[ 2016-08-17T14:45:35+08:00 ]NOTICE: Undefined index: typeD:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (33).
+[ 2016-08-17T14:45:35+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\c4904d2421042db779428e2d3f0168e6.php (33).
+[ 2016-08-17T14:46:16+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr WHERE gtid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-17T14:57:34+08:00 ]EXCEPTION: 模板不存在:App/Admin/View/Shoplist/edit.php
+[ 2016-08-17T15:03:54+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (51).
+[ 2016-08-17T15:03:54+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (51).
+[ 2016-08-17T15:03:54+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (62).
+[ 2016-08-17T15:03:54+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (62).
+[ 2016-08-17T15:09:18+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (51).
+[ 2016-08-17T15:09:18+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (51).
+[ 2016-08-17T15:09:18+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (62).
+[ 2016-08-17T15:09:18+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (62).
+[ 2016-08-17T15:09:54+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (51).
+[ 2016-08-17T15:09:54+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (51).
+[ 2016-08-17T15:09:54+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (62).
+[ 2016-08-17T15:09:54+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (62).
+[ 2016-08-17T15:09:55+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (51).
+[ 2016-08-17T15:09:55+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (51).
+[ 2016-08-17T15:09:55+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (62).
+[ 2016-08-17T15:09:55+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (62).
+[ 2016-08-17T15:12:07+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (51).
+[ 2016-08-17T15:12:07+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (51).
+[ 2016-08-17T15:12:07+08:00 ]NOTICE: Undefined variable: brandDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (62).
+[ 2016-08-17T15:12:07+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (62).
+[ 2016-08-17T15:19:09+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T15:19:09+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T15:19:09+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T15:19:09+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T15:19:09+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T15:19:09+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T15:19:14+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T15:19:14+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T15:19:14+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T15:19:14+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T15:19:15+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T15:19:15+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T15:19:42+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T15:19:42+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T15:19:42+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T15:19:42+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T15:19:42+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T15:19:42+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T15:23:10+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T15:23:10+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T15:23:10+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T15:23:10+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T15:23:10+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T15:23:10+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (52).
+[ 2016-08-17T16:42:36+08:00 ]NOTICE: unlink(Upload/Content/16/08/1731471393679.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (144).
+[ 2016-08-17T16:42:36+08:00 ]NOTICE: unlink(Upload/Content/16/08/1731471393679_list.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (145).
+[ 2016-08-17T17:00:48+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr WHERE shop_lists_gid=36 and class=0 ;BindParams:array (
+)42S22;1054;Unknown column 'class' in 'where clause'
+[ 2016-08-17T17:16:42+08:00 ]NOTICE: Undefined index: tidD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (54).
+[ 2016-08-17T17:16:42+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr INNER JOIN shop_type_attr ON taid = shop_type_attr_taid WHERE shop_type_tid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-17T17:17:31+08:00 ]NOTICE: Undefined index: shop_type_tid and class=0D:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (54).
+[ 2016-08-17T17:17:31+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr INNER JOIN shop_type_attr ON taid = shop_type_attr_taid WHERE shop_type_tid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-17T17:18:19+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr WHERE shop_type_tid=1 ;BindParams:array (
+)42S22;1054;Unknown column 'shop_type_tid' in 'where clause'
+[ 2016-08-17T17:20:56+08:00 ]NOTICE: Undefined index: tavalueD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (54).
+[ 2016-08-17T17:20:56+08:00 ]NOTICE: Undefined index: tanameD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (96).
+[ 2016-08-17T17:21:23+08:00 ]NOTICE: Undefined index: tavalueD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (54).
+[ 2016-08-17T17:21:23+08:00 ]NOTICE: Undefined index: tanameD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (96).
+[ 2016-08-17T17:21:24+08:00 ]NOTICE: Undefined index: tavalueD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (54).
+[ 2016-08-17T17:21:24+08:00 ]NOTICE: Undefined index: tanameD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (96).
+[ 2016-08-17T17:21:33+08:00 ]NOTICE: Undefined index: tavalueD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (54).
+[ 2016-08-17T17:21:33+08:00 ]NOTICE: Undefined index: tanameD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (96).
+[ 2016-08-17T17:22:55+08:00 ]NOTICE: Undefined index: tavalueD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (55).
+[ 2016-08-17T17:22:55+08:00 ]NOTICE: explode() expects parameter 2 to be string, array givenD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (55).
+[ 2016-08-17T17:23:19+08:00 ]NOTICE: Undefined index: tanameD:\wamp\www\shop\Storage\view\compile\e0fe4bfedbca5ef5bf04023b7f29738e.php (96).
+[ 2016-08-17T18:07:21+08:00 ]NOTICE: Undefined variable: vD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (57).
+[ 2016-08-17T18:07:21+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr WHERE shop_lists_gid=36 and shop_type_attr_taid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-17T18:08:35+08:00 ]NOTICE: Undefined variable: vD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (57).
+[ 2016-08-17T18:08:35+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr WHERE shop_lists_gid=36 and shop_type_attr_taid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-17T18:10:16+08:00 ]NOTICE: Undefined variable: vD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (56).
+[ 2016-08-17T18:10:16+08:00 ]NOTICE: Undefined variable: vD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (56).
+[ 2016-08-17T19:19:43+08:00 ]EXCEPTION: SELECT  *  FROM shop_type WHERE shop_lists_gid=33 and shop_type_attr_taid=2 ;BindParams:array (
+)42S22;1054;Unknown column 'shop_lists_gid' in 'where clause'
+[ 2016-08-17T19:43:29+08:00 ]NOTICE: Undefined variable: DbD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (66).
+[ 2016-08-17T19:43:36+08:00 ]NOTICE: Undefined variable: DbD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (66).
+[ 2016-08-17T19:43:39+08:00 ]NOTICE: Undefined variable: DbD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (66).
+[ 2016-08-17T19:47:21+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr WHERE shop_lists_gid=5,6 and shop_type_attr_taid IN (5,6) ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6 and shop_type_attr_taid IN (5,6)' at line 1
+[ 2016-08-17T19:47:44+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr WHERE shop_lists_gid=5,6 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6' at line 1
+[ 2016-08-17T19:47:46+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr WHERE shop_lists_gid=5,6 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6' at line 1
+[ 2016-08-17T19:47:46+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr WHERE shop_lists_gid=5,6 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '6' at line 1

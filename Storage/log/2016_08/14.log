@@ -1,0 +1,149 @@
+[ 2016-08-14T10:23:13+08:00 ]NOTICE: Undefined variable: arc_cateDataD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (23).
+[ 2016-08-14T10:23:13+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (23).
+[ 2016-08-14T10:23:58+08:00 ]NOTICE: Undefined variable: arc_cateDataD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (23).
+[ 2016-08-14T10:23:58+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (23).
+[ 2016-08-14T14:08:38+08:00 ]NOTICE: Undefined variable: aidD:\wamp\www\shop\App\Common\Model\Arc.php (70).
+[ 2016-08-14T14:08:38+08:00 ]EXCEPTION: INSERT INTO shop_arc_data (`keywords`,`des`,`content`,`shop_arc_wid`)VALUES(?,?,?,?) ;BindParams:array (
+  0 => 'rewqreqw',
+  1 => 'rweqr',
+  2 => '<p>rweqrewq<br/></p>',
+  3 => NULL,
+)23000;1048;Column 'shop_arc_wid' cannot be null
+[ 2016-08-14T14:09:55+08:00 ]NOTICE: Undefined variable: arc_cateDataD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (23).
+[ 2016-08-14T14:09:55+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (23).
+[ 2016-08-14T14:11:11+08:00 ]NOTICE: Undefined variable: arc_cateDataD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (23).
+[ 2016-08-14T14:11:11+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (23).
+[ 2016-08-14T14:19:05+08:00 ]NOTICE: Undefined variable: arc_cateDataD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (23).
+[ 2016-08-14T14:19:05+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (23).
+[ 2016-08-14T14:21:45+08:00 ]NOTICE: Undefined variable: arc_cateDataD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (23).
+[ 2016-08-14T14:21:45+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (23).
+[ 2016-08-14T14:22:23+08:00 ]NOTICE: Undefined variable: arcDataD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (23).
+[ 2016-08-14T14:22:23+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (23).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (25).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (29).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (30).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (25).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (29).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (30).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (25).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (29).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (30).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (25).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (29).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (30).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (25).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (29).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (30).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (25).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (29).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (30).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (25).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (29).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (30).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (25).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (29).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (30).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (25).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (29).
+[ 2016-08-14T14:22:47+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (30).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (29).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (30).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (29).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (30).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (29).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (30).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (29).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (30).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (29).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (30).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (29).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (30).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (29).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (30).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (29).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (30).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (29).
+[ 2016-08-14T14:23:22+08:00 ]NOTICE: Undefined index: aidD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (30).
+[ 2016-08-14T14:23:39+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:39+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:39+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:39+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:39+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:39+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:39+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:39+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:39+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:50+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:50+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:50+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:50+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:50+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:50+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:50+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:50+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:23:50+08:00 ]NOTICE: Undefined index: cnameD:\wamp\www\shop\Storage\view\compile\e83c71b54ebb5929045a43e66da8c3d5.php (27).
+[ 2016-08-14T14:46:38+08:00 ]NOTICE: Undefined variable: arc_cateDataD:\wamp\www\shop\Storage\view\compile\ff1c35b18807ee9dd15d623f42d92c8d.php (23).
+[ 2016-08-14T14:46:38+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\ff1c35b18807ee9dd15d623f42d92c8d.php (23).
+[ 2016-08-14T14:59:02+08:00 ]NOTICE: Undefined variable: arc_cateDataD:\wamp\www\shop\Storage\view\compile\ff1c35b18807ee9dd15d623f42d92c8d.php (23).
+[ 2016-08-14T14:59:02+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\ff1c35b18807ee9dd15d623f42d92c8d.php (23).
+[ 2016-08-14T15:01:44+08:00 ]NOTICE: Undefined variable: widD:\wamp\www\shop\App\Admin\Controller\ArcController.php (48).
+[ 2016-08-14T15:01:44+08:00 ]EXCEPTION: UPDATE shop_article SET `is_recycle`=?  WHERE  wid=?  ;BindParams:array (
+  'is_recycle' => 1,
+  0 => NULL,
+)42S02;1146;Table 'shop_edu.shop_article' doesn't exist
+[ 2016-08-14T15:02:51+08:00 ]NOTICE: Undefined variable: widD:\wamp\www\shop\App\Admin\Controller\ArcController.php (48).
+[ 2016-08-14T15:04:08+08:00 ]NOTICE: Undefined variable: widD:\wamp\www\shop\App\Admin\Controller\ArcController.php (48).
+[ 2016-08-14T15:05:51+08:00 ]NOTICE: Undefined variable: arc_cateDataD:\wamp\www\shop\Storage\view\compile\ff1c35b18807ee9dd15d623f42d92c8d.php (23).
+[ 2016-08-14T15:05:51+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\ff1c35b18807ee9dd15d623f42d92c8d.php (23).
+[ 2016-08-14T15:06:10+08:00 ]NOTICE: Undefined variable: arcDataD:\wamp\www\shop\Storage\view\compile\ff1c35b18807ee9dd15d623f42d92c8d.php (23).
+[ 2016-08-14T15:06:10+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\ff1c35b18807ee9dd15d623f42d92c8d.php (23).
+[ 2016-08-14T15:06:31+08:00 ]NOTICE: Undefined variable: arcDataD:\wamp\www\shop\Storage\view\compile\ff1c35b18807ee9dd15d623f42d92c8d.php (23).
+[ 2016-08-14T15:06:31+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\ff1c35b18807ee9dd15d623f42d92c8d.php (23).
+[ 2016-08-14T15:06:32+08:00 ]NOTICE: Undefined variable: arcDataD:\wamp\www\shop\Storage\view\compile\ff1c35b18807ee9dd15d623f42d92c8d.php (23).
+[ 2016-08-14T15:06:32+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\ff1c35b18807ee9dd15d623f42d92c8d.php (23).
+[ 2016-08-14T15:13:54+08:00 ]NOTICE: unlink(Upload/89181471141437_thumb.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ArcController.php (72).
+[ 2016-08-14T15:14:36+08:00 ]NOTICE: unlink(Upload/38151471154918_thumb.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ArcController.php (72).
+[ 2016-08-14T15:16:34+08:00 ]NOTICE: unlink(Upload/22581471154993_thumb.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ArcController.php (72).
+[ 2016-08-14T15:16:39+08:00 ]NOTICE: unlink(Upload/11191471156796_thumb.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ArcController.php (72).
+[ 2016-08-14T15:16:42+08:00 ]NOTICE: unlink(Upload/84641471155069_thumb.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ArcController.php (72).
+[ 2016-08-14T15:16:46+08:00 ]NOTICE: unlink(Upload/331471155482_thumb.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ArcController.php (72).
+[ 2016-08-14T15:16:50+08:00 ]NOTICE: unlink(Upload/66351471155543_thumb.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ArcController.php (72).
+[ 2016-08-14T15:17:53+08:00 ]NOTICE: unlink(Upload/84291471141064_thumb.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ArcController.php (72).
+[ 2016-08-14T15:17:56+08:00 ]NOTICE: unlink(Upload/99811471141203_thumb.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ArcController.php (72).
+[ 2016-08-14T15:17:59+08:00 ]NOTICE: unlink(Upload/63241471141391_thumb.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ArcController.php (72).
+[ 2016-08-14T19:39:15+08:00 ]NOTICE: Undefined variable: cateDataD:\wamp\www\shop\Storage\view\compile\2b059842649e4d4969b063e856fa33e1.php (33).
+[ 2016-08-14T19:39:15+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\2b059842649e4d4969b063e856fa33e1.php (33).
+[ 2016-08-14T19:49:38+08:00 ]NOTICE: Undefined variable: oldDataD:\wamp\www\shop\Storage\view\compile\2b059842649e4d4969b063e856fa33e1.php (22).
+[ 2016-08-14T20:10:04+08:00 ]NOTICE: Undefined variable: ArcDataModelD:\wamp\www\shop\App\Common\Model\Arc.php (83).
+[ 2016-08-14T20:59:00+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\shop\Storage\view\compile\8c05a3a657b4310e62036b6237f7b0cd.php (31).
+[ 2016-08-14T20:59:00+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\8c05a3a657b4310e62036b6237f7b0cd.php (31).
+[ 2016-08-14T21:07:53+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\shop\Storage\view\compile\8c05a3a657b4310e62036b6237f7b0cd.php (31).
+[ 2016-08-14T21:07:53+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\8c05a3a657b4310e62036b6237f7b0cd.php (31).
+[ 2016-08-14T21:11:13+08:00 ]NOTICE: Undefined index: passwordD:\wamp\www\shop\App\Admin\Controller\IndexController.php (40).
+[ 2016-08-14T21:13:46+08:00 ]NOTICE: Undefined variable: dataD:\wamp\www\shop\Storage\view\compile\8c05a3a657b4310e62036b6237f7b0cd.php (31).
+[ 2016-08-14T21:13:46+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Storage\view\compile\8c05a3a657b4310e62036b6237f7b0cd.php (31).
+[ 2016-08-14T22:33:13+08:00 ]NOTICE: Undefined property: Admin\Controller\ConfigController::$configModelD:\wamp\www\shop\App\Admin\Controller\ConfigController.php (18).
+[ 2016-08-14T22:33:34+08:00 ]EXCEPTION: UPDATE shop_webset SET `value`=?  WHERE name=CODE_LEN ;BindParams:array (
+  'value' => '2',
+)42S22;1054;Unknown column 'CODE_LEN' in 'where clause'
+[ 2016-08-14T22:34:14+08:00 ]EXCEPTION: UPDATE shop_webset SET `value`=?  WHERE name=CODE_LEN ;BindParams:array (
+  'value' => '3',
+)42S22;1054;Unknown column 'CODE_LEN' in 'where clause'

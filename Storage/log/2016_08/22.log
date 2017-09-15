@@ -1,0 +1,188 @@
+[ 2016-08-22T00:00:11+08:00 ]EXCEPTION: INSERT INTO shop_address (`name`,`region`,`address`,`telephone`,`cellphone`,`emil`,`addressname`,`shop_user_ui`)VALUES(?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '啊啊',
+  1 => '北京市,北京,海淀区',
+  2 => '啊啊啊啊',
+  3 => '1111',
+  4 => '111',
+  5 => '1111',
+  6 => '111111',
+  7 => '1',
+)42S22;1054;Unknown column 'shop_user_ui' in 'field list'
+[ 2016-08-22T00:02:19+08:00 ]EXCEPTION: INSERT INTO shop_address (`name`,`region`,`address`,`telephone`,`cellphone`,`emil`,`addressname`,`shop_user_ui`)VALUES(?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '啊啊',
+  1 => '福建,南平,邵武市',
+  2 => 'aaaaaa',
+  3 => '112',
+  4 => '221',
+  5 => '121',
+  6 => '家里',
+  7 => '1',
+)42S22;1054;Unknown column 'shop_user_ui' in 'field list'
+[ 2016-08-22T00:03:35+08:00 ]NOTICE: Undefined variable: didD:\wamp\www\shop\App\Home\Controller\InfoController.php (71).
+[ 2016-08-22T00:06:31+08:00 ]EXCEPTION: INSERT INTO shop_address (`name`,`region`,`address`,`telephone`,`cellphone`,`emil`,`addressname`,`shop_user_ui`)VALUES(?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '1',
+  1 => '北京市,北京,东城区',
+  2 => '2',
+  3 => '3',
+  4 => '4',
+  5 => '5',
+  6 => '6',
+  7 => '1',
+)42S22;1054;Unknown column 'shop_user_ui' in 'field list'
+[ 2016-08-22T00:07:33+08:00 ]EXCEPTION: INSERT INTO shop_address (`name`,`region`,`address`,`telephone`,`cellphone`,`emil`,`addressname`,`shop_user_ui`)VALUES(?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '1',
+  1 => '安徽,巢湖,庐江县',
+  2 => '1',
+  3 => '1',
+  4 => '1',
+  5 => '111',
+  6 => '1',
+  7 => '1',
+)42S22;1054;Unknown column 'shop_user_ui' in 'field list'
+[ 2016-08-22T00:08:30+08:00 ]EXCEPTION: INSERT INTO shop_address (`name`,`region`,`address`,`telephone`,`cellphone`,`emil`,`addressname`,`shop_user_ui`)VALUES(?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '1',
+  1 => '北京市,北京,东城区',
+  2 => '1',
+  3 => '1',
+  4 => '1111',
+  5 => '1111111',
+  6 => '1',
+  7 => '1',
+)42S22;1054;Unknown column 'shop_user_ui' in 'field list'
+[ 2016-08-22T00:08:32+08:00 ]EXCEPTION: INSERT INTO shop_address (`name`,`region`,`address`,`telephone`,`cellphone`,`emil`,`addressname`,`shop_user_ui`)VALUES(?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '1',
+  1 => '北京市,北京,东城区',
+  2 => '1',
+  3 => '1',
+  4 => '1111',
+  5 => '1111111',
+  6 => '1',
+  7 => '1',
+)42S22;1054;Unknown column 'shop_user_ui' in 'field list'
+[ 2016-08-22T00:10:36+08:00 ]EXCEPTION: INSERT INTO shop_address (`name`,`region`,`address`,`telephone`,`cellphone`,`emil`,`addressname`,`shop_user_ui`)VALUES(?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '1',
+  1 => '北京市,北京,东城区',
+  2 => '1',
+  3 => '1',
+  4 => '11',
+  5 => '1',
+  6 => '1',
+  7 => '1',
+)42S22;1054;Unknown column 'shop_user_ui' in 'field list'
+[ 2016-08-22T10:00:23+08:00 ]NOTICE: implode(): Invalid arguments passedD:\wamp\www\shop\App\Home\Controller\InfoController.php (90).
+[ 2016-08-22T10:19:44+08:00 ]EXCEPTION: INSERT INTO shop_address (`name`,`region`,`address`,`telephone`,`cellphone`,`emil`,`addressname`,`did`,`shop_user_uid`)VALUES(?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '小林',
+  1 => '北京市,北京,东城区',
+  2 => '后盾php',
+  3 => '15728048627',
+  4 => '688585',
+  5 => '462441355@qq.com',
+  6 => '家里',
+  7 => '1',
+  8 => '1',
+)23000;1062;Duplicate entry '1' for key 'PRIMARY'
+[ 2016-08-22T10:20:40+08:00 ]EXCEPTION: INSERT INTO shop_address (`name`,`region`,`address`,`telephone`,`cellphone`,`emil`,`addressname`,`did`,`shop_user_uid`)VALUES(?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '小林',
+  1 => '北京市,北京,东城区',
+  2 => '后盾php',
+  3 => '15728048627',
+  4 => '688585',
+  5 => '462441355@qq.com',
+  6 => '家里',
+  7 => '1',
+  8 => '1',
+)23000;1062;Duplicate entry '1' for key 'PRIMARY'
+[ 2016-08-22T10:21:02+08:00 ]EXCEPTION: INSERT INTO shop_address (`name`,`region`,`address`,`telephone`,`cellphone`,`emil`,`addressname`,`did`,`shop_user_uid`)VALUES(?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '小林',
+  1 => '北京市,北京,东城区',
+  2 => '后盾php',
+  3 => '15728048627',
+  4 => '688585',
+  5 => '462441355@qq.com',
+  6 => '家里',
+  7 => '1',
+  8 => '1',
+)23000;1062;Duplicate entry '1' for key 'PRIMARY'
+[ 2016-08-22T10:22:51+08:00 ]EXCEPTION: INSERT INTO shop_address (`name`,`region`,`address`,`telephone`,`cellphone`,`emil`,`addressname`,`did`,`shop_user_uid`)VALUES(?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '小林',
+  1 => '北京市,北京,东城区',
+  2 => '后盾php',
+  3 => '15728048627',
+  4 => '688585',
+  5 => '462441355@qq.com',
+  6 => '家里',
+  7 => '1',
+  8 => '1',
+)23000;1062;Duplicate entry '1' for key 'PRIMARY'
+[ 2016-08-22T10:23:35+08:00 ]NOTICE: Undefined variable: addressModelD:\wamp\www\shop\App\Home\Controller\InfoController.php (82).
+[ 2016-08-22T10:25:29+08:00 ]NOTICE: Undefined variable: addressModelD:\wamp\www\shop\App\Home\Controller\InfoController.php (83).
+[ 2016-08-22T13:40:53+08:00 ]EXCEPTION: SELECT  *  FROM shop_lists INNER JOIN shop_detail ON shop_lists_gid = gid  INNER JOIN shop_lis ON shop_lists_gid = gid WHERE  gid=?  LIMIT 1 ;BindParams:array (
+  0 => 2,
+)23000;1052;Column 'shop_lists_gid' in on clause is ambiguous
+[ 2016-08-22T13:42:05+08:00 ]EXCEPTION: SELECT  *  FROM shop_lists INNER JOIN shop_detail ON shop_lists_gid = gid  INNER JOIN shop_lis ON shop_lists_gid = gid WHERE  gid=?  LIMIT 1 ;BindParams:array (
+  0 => 2,
+)23000;1052;Column 'shop_lists_gid' in on clause is ambiguous
+[ 2016-08-22T13:42:06+08:00 ]EXCEPTION: SELECT  *  FROM shop_lists INNER JOIN shop_detail ON shop_lists_gid = gid  INNER JOIN shop_lis ON shop_lists_gid = gid WHERE  gid=?  LIMIT 1 ;BindParams:array (
+  0 => 2,
+)23000;1052;Column 'shop_lists_gid' in on clause is ambiguous
+[ 2016-08-22T13:53:04+08:00 ]NOTICE: Undefined property: Home\Controller\ShopController::$listattrModelD:\wamp\www\shop\App\Home\Controller\ShopController.php (63).
+[ 2016-08-22T15:11:33+08:00 ]EXCEPTION: SELECT  *  FROM shop_category WHERE pid NOTIN(0) ORDER BY  sort ASC  LIMIT 6 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NOTIN(0) ORDER BY  sort ASC  LIMIT 6' at line 1
+[ 2016-08-22T15:13:32+08:00 ]EXCEPTION: SELECT  *  FROM shop_category WHERE pid NotIN(0) ORDER BY  sort ASC  LIMIT 6 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NotIN(0) ORDER BY  sort ASC  LIMIT 6' at line 1
+[ 2016-08-22T15:14:27+08:00 ]NOTICE: Missing argument 2 for Hdphp\Db\Mysql::whereNotIn()D:\wamp\www\shop\Hdphp\Db\Mysql.php (709).
+[ 2016-08-22T15:14:27+08:00 ]NOTICE: Undefined variable: paramsD:\wamp\www\shop\Hdphp\Db\Mysql.php (713).
+[ 2016-08-22T15:14:27+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Hdphp\Db\Mysql.php (713).
+[ 2016-08-22T15:14:27+08:00 ]EXCEPTION: SELECT  *  FROM shop_category WHERE  pid (0) NOT IN () ORDER BY  sort ASC  LIMIT 6 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY  sort ASC  LIMIT 6' at line 1
+[ 2016-08-22T15:14:57+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Hdphp\Db\Mysql.php (713).
+[ 2016-08-22T15:14:57+08:00 ]EXCEPTION: SELECT  *  FROM shop_category WHERE  pid NOT IN () ORDER BY  sort ASC  LIMIT 6 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY  sort ASC  LIMIT 6' at line 1
+[ 2016-08-22T15:15:18+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Hdphp\Db\Mysql.php (713).
+[ 2016-08-22T15:15:18+08:00 ]EXCEPTION: SELECT  *  FROM shop_category WHERE  pid NOT IN () ORDER BY  sort ASC  LIMIT 6 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY  sort ASC  LIMIT 6' at line 1
+[ 2016-08-22T15:15:19+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Hdphp\Db\Mysql.php (713).
+[ 2016-08-22T15:15:19+08:00 ]EXCEPTION: SELECT  *  FROM shop_category WHERE  pid NOT IN () ORDER BY  sort ASC  LIMIT 6 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY  sort ASC  LIMIT 6' at line 1
+[ 2016-08-22T15:15:26+08:00 ]NOTICE: Invalid argument supplied for foreach()D:\wamp\www\shop\Hdphp\Db\Mysql.php (713).
+[ 2016-08-22T15:15:26+08:00 ]EXCEPTION: SELECT  *  FROM shop_category WHERE  pid NOT IN () ORDER BY  sort ASC  LIMIT 6 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY  sort ASC  LIMIT 6' at line 1
+[ 2016-08-22T15:35:47+08:00 ]NOTICE: Undefined variable: valueD:\wamp\www\shop\App\Home\Controller\ShopController.php (71).
+[ 2016-08-22T15:35:47+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr INNER JOIN shop_type_attr ON taid = shop_type_attr_taid WHERE gtid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-22T15:43:41+08:00 ]NOTICE: Undefined variable: tidD:\wamp\www\shop\App\Home\Controller\ShopController.php (71).
+[ 2016-08-22T15:43:41+08:00 ]EXCEPTION: SELECT  *  FROM shop_type_attr WHERE shop_type_tid= and class=1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and class=1' at line 1
+[ 2016-08-22T15:44:50+08:00 ]NOTICE: Undefined variable: shopattrDataD:\wamp\www\shop\App\Home\Controller\ShopController.php (72).
+[ 2016-08-22T15:59:09+08:00 ]NOTICE: Undefined variable: lisDataD:\wamp\www\shop\App\Home\Controller\ShopController.php (61).
+[ 2016-08-22T16:08:28+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr WHERE shop_type_attr_taid=4 and shop_list_gid=2 ;BindParams:array (
+)42S22;1054;Unknown column 'shop_list_gid' in 'where clause'
+[ 2016-08-22T18:13:38+08:00 ]NOTICE: Array to string conversionD:\wamp\www\shop\App\Home\Controller\ShopcartController.php (20).
+[ 2016-08-22T18:13:38+08:00 ]EXCEPTION: SELECT  *  FROM shop_lis WHERE shop_lists_gid=Array LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'Array' in 'where clause'
+[ 2016-08-22T19:29:08+08:00 ]EXCEPTION: SELECT  *  FROM shop_lis WHERE shop_lists_gid=2 and number=66,69 LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '69 LIMIT 1' at line 1
+[ 2016-08-22T19:29:47+08:00 ]EXCEPTION: SELECT  *  FROM shop_lis WHERE shop_lists_gid=2 and combine=66,69 LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '69 LIMIT 1' at line 1
+[ 2016-08-22T19:30:34+08:00 ]EXCEPTION: SELECT  *  FROM shop_lis WHERE shop_lists_gid=2 and combine=66,69 LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '69 LIMIT 1' at line 1
+[ 2016-08-22T19:30:36+08:00 ]EXCEPTION: SELECT  *  FROM shop_lis WHERE shop_lists_gid=0 and combine= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2016-08-22T19:37:31+08:00 ]EXCEPTION: SELECT  *  FROM shop_lis WHERE shop_lists_gid=2 and combine=66,69 LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '69 LIMIT 1' at line 1
+[ 2016-08-22T21:47:58+08:00 ]EXCEPTION: Method Home\Controller\ShopcartController::addcartprines=179() does not exist
+[ 2016-08-22T22:05:56+08:00 ]NOTICE: Undefined variable: carModelD:\wamp\www\shop\App\Home\Controller\ShopcartController.php (24).
+[ 2016-08-22T22:11:22+08:00 ]EXCEPTION: SELECT  *  FROM shop_car WHERE shopcar=a:4:{s:7:"combine";s:5:"66,69";s:3:"num";s:1:"1";s:5:"price";s:3:"179";s:3:"gid";s:1:"2";} and shop_user_uid=1 LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':4:{s:7:"combine";s:5:"66,69";s:3:"num";s:1:"1";s:5:"price";s:3:"179";s:3:"gid";' at line 1
+[ 2016-08-22T22:12:43+08:00 ]EXCEPTION: SELECT  *  FROM shop_car WHERE shopcar=a:4:{s:7:"combine";s:5:"66,69";s:3:"num";s:1:"1";s:5:"price";s:3:"179";s:3:"gid";s:1:"2";} and shop_user_uid=1 LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':4:{s:7:"combine";s:5:"66,69";s:3:"num";s:1:"1";s:5:"price";s:3:"179";s:3:"gid";' at line 1
+[ 2016-08-22T22:12:49+08:00 ]EXCEPTION: SELECT  *  FROM shop_car WHERE shopcar=a:4:{s:7:"combine";s:5:"66,69";s:3:"num";s:1:"1";s:5:"price";s:3:"179";s:3:"gid";s:1:"2";} and shop_user_uid=1 LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':4:{s:7:"combine";s:5:"66,69";s:3:"num";s:1:"1";s:5:"price";s:3:"179";s:3:"gid";' at line 1
+[ 2016-08-22T22:27:19+08:00 ]NOTICE: Undefined variable: imgD:\wamp\www\shop\App\Home\Controller\ShopcartController.php (38).
+[ 2016-08-22T22:34:38+08:00 ]NOTICE: Undefined variable: shopD:\wamp\www\shop\Storage\view\compile\82a315c94f9cdf949380badf68989fc5.php (1045).
+[ 2016-08-22T22:34:38+08:00 ]NOTICE: Undefined variable: shopD:\wamp\www\shop\Storage\view\compile\82a315c94f9cdf949380badf68989fc5.php (1049).
+[ 2016-08-22T22:36:01+08:00 ]NOTICE: Undefined variable: ShoptypeattrModelD:\wamp\www\shop\App\Home\Controller\ShopcartController.php (48).
+[ 2016-08-22T22:37:07+08:00 ]NOTICE: Undefined variable: gidD:\wamp\www\shop\App\Home\Controller\ShopcartController.php (52).
+[ 2016-08-22T22:37:07+08:00 ]EXCEPTION: SELECT  *  FROM shop_list_attr WHERE shop_type_attr_taid=4 and shop_lists_gid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2016-08-22T23:05:29+08:00 ]EXCEPTION: 模板不存在:App/Home/View/Shopcart/carindex.php

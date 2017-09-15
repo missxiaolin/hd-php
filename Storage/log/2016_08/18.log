@@ -1,0 +1,50 @@
+[ 2016-08-18T09:55:51+08:00 ]NOTICE: unlink(Upload/Content/16/08/96641471423542_list.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (159).
+[ 2016-08-18T09:55:52+08:00 ]NOTICE: unlink(Upload/Content/16/08/84441471423541_list.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (159).
+[ 2016-08-18T09:55:54+08:00 ]NOTICE: unlink(Upload/Content/16/08/86671471423541_list.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (159).
+[ 2016-08-18T12:02:00+08:00 ]NOTICE: unlink(Upload/Content/16/08/48311471492874_list.jpg): No such file or directoryD:\wamp\www\shop\App\Admin\Controller\ShoplistController.php (159).
+[ 2016-08-18T15:17:04+08:00 ]EXCEPTION: Method Home\Controller\LoginController::code() does not exist
+[ 2016-08-18T15:17:05+08:00 ]EXCEPTION: Method Home\Controller\LoginController::code() does not exist
+[ 2016-08-18T15:38:23+08:00 ]NOTICE: Missing argument 1 for U(), called in D:\wamp\www\shop\Storage\view\compile\4e74a94eff923ad36f1e602e14ffe106.php on line 13 and definedD:\wamp\www\shop\Hdphp\Kernel\Functions.php (9).
+[ 2016-08-18T15:38:23+08:00 ]NOTICE: Undefined variable: pathD:\wamp\www\shop\Hdphp\Kernel\Functions.php (13).
+[ 2016-08-18T15:38:24+08:00 ]EXCEPTION: Method Home\Controller\LoginController::code() does not exist
+[ 2016-08-18T15:38:26+08:00 ]EXCEPTION: Method Home\Controller\LoginController::code() does not exist
+[ 2016-08-18T15:38:27+08:00 ]EXCEPTION: Method Home\Controller\LoginController::code() does not exist
+[ 2016-08-18T15:38:27+08:00 ]EXCEPTION: Method Home\Controller\LoginController::code() does not exist
+[ 2016-08-18T15:38:27+08:00 ]EXCEPTION: Method Home\Controller\LoginController::code() does not exist
+[ 2016-08-18T15:38:29+08:00 ]EXCEPTION: Method Home\Controller\LoginController::code() does not exist
+[ 2016-08-18T15:38:29+08:00 ]EXCEPTION: Method Home\Controller\LoginController::code() does not exist
+[ 2016-08-18T15:38:30+08:00 ]EXCEPTION: Method Home\Controller\LoginController::code() does not exist
+[ 2016-08-18T15:38:30+08:00 ]EXCEPTION: Method Home\Controller\LoginController::code() does not exist
+[ 2016-08-18T15:38:38+08:00 ]NOTICE: Missing argument 1 for U(), called in D:\wamp\www\shop\Storage\view\compile\4e74a94eff923ad36f1e602e14ffe106.php on line 13 and definedD:\wamp\www\shop\Hdphp\Kernel\Functions.php (9).
+[ 2016-08-18T15:38:38+08:00 ]NOTICE: Undefined variable: pathD:\wamp\www\shop\Hdphp\Kernel\Functions.php (13).
+[ 2016-08-18T15:39:19+08:00 ]NOTICE: Missing argument 1 for U(), called in D:\wamp\www\shop\Storage\view\compile\4e74a94eff923ad36f1e602e14ffe106.php on line 13 and definedD:\wamp\www\shop\Hdphp\Kernel\Functions.php (9).
+[ 2016-08-18T15:39:19+08:00 ]NOTICE: Undefined variable: pathD:\wamp\www\shop\Hdphp\Kernel\Functions.php (13).
+[ 2016-08-18T15:39:23+08:00 ]NOTICE: Missing argument 1 for U(), called in D:\wamp\www\shop\Storage\view\compile\4e74a94eff923ad36f1e602e14ffe106.php on line 13 and definedD:\wamp\www\shop\Hdphp\Kernel\Functions.php (9).
+[ 2016-08-18T15:39:23+08:00 ]NOTICE: Undefined variable: pathD:\wamp\www\shop\Hdphp\Kernel\Functions.php (13).
+[ 2016-08-18T15:39:28+08:00 ]NOTICE: Missing argument 1 for U(), called in D:\wamp\www\shop\Storage\view\compile\4e74a94eff923ad36f1e602e14ffe106.php on line 13 and definedD:\wamp\www\shop\Hdphp\Kernel\Functions.php (9).
+[ 2016-08-18T15:39:28+08:00 ]NOTICE: Undefined variable: pathD:\wamp\www\shop\Hdphp\Kernel\Functions.php (13).
+[ 2016-08-18T15:39:57+08:00 ]NOTICE: Missing argument 1 for U(), called in D:\wamp\www\shop\Storage\view\compile\4e74a94eff923ad36f1e602e14ffe106.php on line 13 and definedD:\wamp\www\shop\Hdphp\Kernel\Functions.php (9).
+[ 2016-08-18T15:39:57+08:00 ]NOTICE: Undefined variable: pathD:\wamp\www\shop\Hdphp\Kernel\Functions.php (13).
+[ 2016-08-18T15:40:01+08:00 ]NOTICE: Missing argument 1 for U(), called in D:\wamp\www\shop\Storage\view\compile\4e74a94eff923ad36f1e602e14ffe106.php on line 13 and definedD:\wamp\www\shop\Hdphp\Kernel\Functions.php (9).
+[ 2016-08-18T15:40:01+08:00 ]NOTICE: Undefined variable: pathD:\wamp\www\shop\Hdphp\Kernel\Functions.php (13).
+[ 2016-08-18T15:40:10+08:00 ]NOTICE: Missing argument 1 for U(), called in D:\wamp\www\shop\Storage\view\compile\4e74a94eff923ad36f1e602e14ffe106.php on line 13 and definedD:\wamp\www\shop\Hdphp\Kernel\Functions.php (9).
+[ 2016-08-18T15:40:10+08:00 ]NOTICE: Undefined variable: pathD:\wamp\www\shop\Hdphp\Kernel\Functions.php (13).
+[ 2016-08-18T15:40:13+08:00 ]NOTICE: Missing argument 1 for U(), called in D:\wamp\www\shop\Storage\view\compile\4e74a94eff923ad36f1e602e14ffe106.php on line 13 and definedD:\wamp\www\shop\Hdphp\Kernel\Functions.php (9).
+[ 2016-08-18T15:40:13+08:00 ]NOTICE: Undefined variable: pathD:\wamp\www\shop\Hdphp\Kernel\Functions.php (13).
+[ 2016-08-18T15:40:50+08:00 ]NOTICE: Missing argument 1 for U(), called in D:\wamp\www\shop\Storage\view\compile\4e74a94eff923ad36f1e602e14ffe106.php on line 13 and definedD:\wamp\www\shop\Hdphp\Kernel\Functions.php (9).
+[ 2016-08-18T15:40:50+08:00 ]NOTICE: Undefined variable: pathD:\wamp\www\shop\Hdphp\Kernel\Functions.php (13).
+[ 2016-08-18T15:40:51+08:00 ]NOTICE: Missing argument 1 for U(), called in D:\wamp\www\shop\Storage\view\compile\4e74a94eff923ad36f1e602e14ffe106.php on line 13 and definedD:\wamp\www\shop\Hdphp\Kernel\Functions.php (9).
+[ 2016-08-18T15:40:51+08:00 ]NOTICE: Undefined variable: pathD:\wamp\www\shop\Hdphp\Kernel\Functions.php (13).
+[ 2016-08-18T16:56:45+08:00 ]NOTICE: Use of undefined constant COPY_INFO - assumed 'COPY_INFO'D:\wamp\www\shop\Storage\view\compile\75bebfccef3640eccef701ac1e2f222e.php (81).
+[ 2016-08-18T19:39:17+08:00 ]NOTICE: explode() expects parameter 2 to be string, array givenD:\wamp\www\shop\Hdphp\Request\Request.php (26).
+[ 2016-08-18T20:02:02+08:00 ]NOTICE: Undefined index: userD:\wamp\www\shop\App\Home\Controller\LoginController.php (41).
+[ 2016-08-18T20:02:02+08:00 ]NOTICE: session_destroy() expects exactly 0 parameters, 1 givenD:\wamp\www\shop\App\Home\Controller\LoginController.php (41).
+[ 2016-08-18T20:02:02+08:00 ]NOTICE: Undefined index: userD:\wamp\www\shop\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (8).
+[ 2016-08-18T20:02:09+08:00 ]NOTICE: Undefined index: userD:\wamp\www\shop\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (8).
+[ 2016-08-18T20:02:12+08:00 ]NOTICE: Undefined index: userD:\wamp\www\shop\Storage\view\compile\fe4be9671d2204af17e713118acb7dc2.php (8).
+[ 2016-08-18T20:05:11+08:00 ]NOTICE: Undefined index: userD:\wamp\www\shop\App\Home\Controller\LoginController.php (41).
+[ 2016-08-18T20:05:11+08:00 ]NOTICE: session_destroy() expects exactly 0 parameters, 1 givenD:\wamp\www\shop\App\Home\Controller\LoginController.php (41).
+[ 2016-08-18T21:21:53+08:00 ]NOTICE: Undefined index: userD:\wamp\www\shop\App\Home\Controller\LoginController.php (41).
+[ 2016-08-18T21:21:53+08:00 ]NOTICE: session_destroy() expects exactly 0 parameters, 1 givenD:\wamp\www\shop\App\Home\Controller\LoginController.php (41).
+[ 2016-08-18T21:22:29+08:00 ]NOTICE: Undefined index: userD:\wamp\www\shop\App\Home\Controller\LoginController.php (41).
+[ 2016-08-18T21:22:29+08:00 ]NOTICE: session_destroy() expects exactly 0 parameters, 1 givenD:\wamp\www\shop\App\Home\Controller\LoginController.php (41).
